@@ -1,5 +1,3 @@
-# Web-Application-Development
-
 # Mobile Application Development (React Native)
 
 **Course:** Mobile Application Development  
